@@ -33,11 +33,11 @@ Uma aplicação web Node.js que permite baixar vídeos do YouTube em diferentes 
 
 2. Instale as dependências:
 
-```npm install```bash
+```npm install```
 
 3. Inicie o servidor:
 
-```node download_youtube_video.js```bash
+```node download_youtube_video.js```
 
 4. Acesse a aplicação em `http://localhost:3000`
 
