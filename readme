@@ -65,14 +65,3 @@ Uma aplicação web Node.js que permite baixar vídeos do YouTube em diferentes 
 - O tempo de processamento pode variar dependendo do tamanho do vídeo e da qualidade selecionada
 - Necessário espaço em disco para arquivos temporários durante o processamento
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com o projeto através de pull requests ou reportando issues.
-
-## Licença
-
-Este projeto está sob a licença MIT.
-
-## Aviso Legal
-
-Este software foi desenvolvido apenas para fins educacionais. Certifique-se de respeitar os direitos autorais e os termos de serviço do YouTube ao utilizá-lo.
