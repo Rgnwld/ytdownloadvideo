@@ -59,9 +59,3 @@ Uma aplicação web Node.js que permite baixar vídeos do YouTube em diferentes 
 - Tratamento de erros robusto
 - Interface responsiva
 
-## Limitações
-
-- Alguns vídeos podem não estar disponíveis para download devido a restrições do YouTube
-- O tempo de processamento pode variar dependendo do tamanho do vídeo e da qualidade selecionada
-- Necessário espaço em disco para arquivos temporários durante o processamento
-
